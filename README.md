@@ -18,7 +18,7 @@ Current high school student with interests in computer science, engineering, phy
 - Developed state of the arti anticheating software for games using knowledge of penetration testing software and reverse engineering
 -58.8M+ Visitss, Peak 2k+ Concurrent Players
 
-**Hackathon Team Lead @ NASA International Space Apps Challenge (_2024)**
+**Hackathon Team Lead @ NASA International Space Apps Challenge (2024)**
 - Created a website that integrated NASA Satellite data to address unique challenges such as fertilization, water content, and UV penetration
 - Developed a user-friendly web interface that allows users to view information such as
     - Imagery (Visible, Infrared, Radar)
@@ -26,7 +26,7 @@ Current high school student with interests in computer science, engineering, phy
     - Spatial Data (Geographical coordinates and terrain)
 
 ## 🏆 Awards
-**Science Olympiad (_2023 - Present)**
+**Science Olympiad (2023 - Present)**
 - **1st Place** for Detector Building: Building a redox meter with a salt bridge that measures the salinity of unknown NaCl solutions in ppm
 - **2x 2nd Place** for Electric Vehicle: Designed and built a robot with brushless motor and ESC to travel a given distance as fast as possible (scored within 1 cm of target)
 - **7th Place @ Stanford Invitational** for Robot Tour: Designed and calibrated a robot to move along a 4x5 track with extreme accuracy to reach a target square while passing through gates for points in a specific order with the most efficient route while also getting as close to a target time as possible.
