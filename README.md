@@ -23,7 +23,7 @@ Current high school student with interests in computer science, engineering, phy
 - Developed state of the arti anticheating software for games using knowledge of penetration testing software and reverse engineering
 -58.8M+ Visitss, Peak 2k+ Concurrent Players
 
-**Hackathon Team Lead @ NASA International Space Apps Challenge (2024)**
+**Hackathon Team Lead @ <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/slime-squad/"> NASA International Space Apps Challenge</a> (2024)**
 - Created a website that integrated NASA Satellite data to address unique challenges such as fertilization, water content, and UV penetration
 - Developed a user-friendly web interface that allows users to view information such as
     - Imagery (Visible, Infrared, Radar)
