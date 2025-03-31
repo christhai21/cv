@@ -19,7 +19,7 @@ Current high school student with interests in computer science, engineering, phy
 **Information Technology Technician @ NCS Computers. (_2018 - 2025_)**
 - Managed help-desk tasks, resolved IT and AV issues, and provided technical support for commercial and residential settings
 
-**Lead Security Developer @ Detourious (_2023 - 2024_)**
+**Lead Security Developer @ <a href="https://www.roblox.com/communities/9511290/detourious">Detourious</a> (_2023 - 2024_)**
 - Developed state of the arti anticheating software for games using knowledge of penetration testing software and reverse engineering
 -58.8M+ Visitss, Peak 2k+ Concurrent Players
 
@@ -32,9 +32,9 @@ Current high school student with interests in computer science, engineering, phy
 
 ## 🏆 Awards
 **Science Olympiad (2023 - Present)**
-- **1st Place** for Detector Building: Building a redox meter with a salt bridge that measures the salinity of unknown NaCl solutions in ppm
-- **2x 2nd Place** for Electric Vehicle: Designed and built a robot with brushless motor and ESC to travel a given distance as fast as possible (scored within 1 cm of target)
-- **7th Place @ Stanford Invitational** for Robot Tour: Designed and calibrated a robot to move along a 4x5 track with extreme accuracy to reach a target square while passing through gates for points in a specific order with the most efficient route while also getting as close to a target time as possible.
+- **1st Place** for <a href="https://www.duosmium.org/results/2024-03-02_nCA_sacramento_regional_c/">Detector Building</a>: Building a redox meter with a salt bridge that measures the salinity of unknown NaCl solutions in ppm
+- **2x 2nd Place** for <a href="https://www.duosmium.org/results/2025-03-01_nCA_sacramento_regional_c/">Electric Vehicle</a>: Designed and built a robot with brushless motor and ESC to travel a given distance as fast as possible (scored within 1 cm of target)
+- **8th Place @ <a href="https://www.duosmium.org/results/2025-02-01_stanford_invitational_c/">Stanford Invitational</a>** for Robot Tour: Designed and calibrated a robot to move along a 4x5 track with extreme accuracy to reach a target square while passing through gates for points in a specific order with the most efficient route while also getting as close to a target time as possible.
 - **National Semifinals Qualifier: CyberPatriots**, 2023
 - **AMC 10** Mathematics: top scorer & qualifier for advancement to the AIME
 
