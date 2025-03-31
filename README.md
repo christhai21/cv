@@ -1,4 +1,4 @@
-#### Summary: 
+## Summary: 
 Current high school student with interests in computer science, engineering, physics, and math. Skills in experimental design, statistical analysis, reverse engineering, programming for large scale systems, game development, and penetration testing.
 
 ## Activities:
