@@ -11,12 +11,14 @@ Current high school student with interests in computer science, engineering, phy
 - Experience working with circuits and microcontrollers, specifically Arduino, Rasberry Pi, and STM32
   
 ## 🎓 Education
-**Class of 2026**, **Class Rank 1 of 611** | Sheldon High School <br /><br />
+**Class of 2026**, **Class Rank 1 of 611** | Sheldon High School
+
 **Dual Enrollment Student @ Cosumnes River College**, Enrolled in various college level courses while in highschool
 
 ## 🔬  Experience
 **Information Technology Technician @ NCS Computers. (_2018 - 2025_)**
-- Managed help-desk tasks, resolved IT and AV issues, and provided technical support for commercial and residential settings<br />
+- Managed help-desk tasks, resolved IT and AV issues, and provided technical support for commercial and residential settings
+
 **Lead Security Developer @ Detourious (_2023 - 2024_)**
 - Developed state of the arti anticheating software for games using knowledge of penetration testing software and reverse engineering
 -58.8M+ Visitss, Peak 2k+ Concurrent Players
