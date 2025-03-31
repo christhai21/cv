@@ -20,7 +20,7 @@ Current high school student with interests in computer science, engineering, phy
 - Managed help-desk tasks, resolved IT and AV issues, and provided technical support for commercial and residential settings
 
 **Lead Security Developer @ <a href="https://www.roblox.com/communities/9511290/detourious">Detourious</a> (_2023 - 2024_)**
-- Developed state of the arti anticheating software for games using knowledge of penetration testing software and reverse engineering
+- Developed state of the anti anticheating software for games using knowledge of penetration testing software and reverse engineering
 -**58.8M+ Visits**, Peak 2k+ Concurrent Players
 
 **1st Place & Global Nominee - Hackathon Team Lead @ <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/slime-squad/"> NASA International Space Apps Challenge</a> (2024)**
