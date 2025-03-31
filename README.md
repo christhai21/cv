@@ -1,12 +1,7 @@
 #### Summary: 
 Current high school student with interests in computer science, engineering, physics, and math. Skills in experimental design, statistical analysis, reverse engineering, programming for large scale systems, game development, and penetration testing.
-#### Publication Statistics:
-Cumulative Impact Factor: **34.171**
 
-Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm0cAAAAJ&hl=en" target="_blank">Google Scholar</a>
-
-#### Skills:
-
+## Skills:
 - Programming Languages: Lua, LuaU, Python, JavaScript, TypeScript, Rust 
 - Tools & Technologies: OnShape CAD, Roblox Studio, Git, VSC, VS, GitHub, AI & Machine Learning Tools, Figma
 - Other Skills: Game Design, Project Management, Quality Assurance, Security Analysis, UI/UX
