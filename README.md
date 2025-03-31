@@ -31,7 +31,7 @@ Current high school student with interests in computer science, engineering, phy
     - Spatial Data (Geographical coordinates and terrain)
 
 ## 🏆 Awards
-- **1st Place & Global Nominee:** <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/slime-squad/"> NASA International Space Apps Challenge</a> (2024)
+- **1st Place & Global Nominee: <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/slime-squad/"> NASA International Space Apps Challenge</a>** (2024)
 **Science Olympiad (2023 - Present)**
 - **1st Place** for **<a href="https://www.duosmium.org/results/2024-03-02_nCA_sacramento_regional_c/">Detector Building</a>**: Building a redox meter with a salt bridge that measures the salinity of unknown NaCl solutions in ppm
 - **2x 2nd Place** for **<a href="https://www.duosmium.org/results/2025-03-01_nCA_sacramento_regional_c/">Electric Vehicle</a>**: Designed and built a robot with brushless motor and ESC to travel a given distance as fast as possible (scored within 1 cm of target)
