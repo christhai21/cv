@@ -1,6 +1,9 @@
 #### Summary: 
 Current high school student with interests in computer science, engineering, physics, and math. Skills in experimental design, statistical analysis, reverse engineering, programming for large scale systems, game development, and penetration testing.
 
+## Activities:
+-Elk Grove Piranhas Club Swimming, Varsity Swimming, Varsity Football, Avid Weight Lifter, Science Olympiad, National Honor Society, CSF Club Treasurer, CyberPatriots, KTV Church Youth Group Leader, Suzuki Piano Level 10
+
 ## Skills:
 - Programming Languages: Lua, LuaU, Python, JavaScript, TypeScript, Rust 
 - Tools & Technologies: OnShape CAD, Roblox Studio, Git, VSC, VS, GitHub, AI & Machine Learning Tools, Figma
