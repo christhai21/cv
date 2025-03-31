@@ -11,7 +11,7 @@ Current high school student with interests in computer science, engineering, phy
 - Experience working with circuits and microcontrollers, specifically Arduino, Rasberry Pi, and STM32
   
 ## 🎓 Education
-**Class of 2026**, Class Rank 1 of 611 | Sheldon High School
+**Class of 2026**, **Class Rank 1 of 611** | Sheldon High School
 **Dual Enrollment Student @ Cosumnes River College**, Enrolled in various college level courses while in highschool
 
 ## 🔬  Experience
