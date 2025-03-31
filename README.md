@@ -6,7 +6,7 @@ Current high school student with interests in computer science, engineering, phy
 
 ## Skills:
 - Programming Languages: Lua, LuaU, Python, JavaScript, TypeScript, Rust 
-- Tools & Technologies: OnShape CAD, Roblox Studio, Git, VSC, VS, GitHub, AI & Machine Learning Tools, Figma
+- Tools & Technologies: OnShape CAD, Git, VSC, VS, GitHub, AI & Machine Learning Tools, Figma
 - Other Skills: Game Design, Project Management, Quality Assurance, Security Analysis, UI/UX
 - Experience working with circuits and microcontrollers, specifically Arduino, Rasberry Pi, and STM32
   
